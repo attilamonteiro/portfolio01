@@ -1,53 +1,53 @@
+// main.js
 import { initScrollReveal } from "./scrollReveal.js";
 import { hoverChangeExperience } from "./hoverChangeExperience.js";
 import { typeWrite } from "./typeWrite.js";
 import { hoverChangeDescription } from "./hoverChangeDescription.js";
 import { menu } from "./menu.js";
 
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("DOM completamente carregado e analisado");
 menu();
 initScrollReveal();
 typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
-  ".digitalhouse",
-  `Trabalhei como instrutor conteudista em frontend na
-  Digital House, o trabalho consistia em criar conteúdos para as
-  aulas de especialização frontend. Alguns temas dos conteúdos
-  realizados foram: React, Redux, TypeScript, Testes,
-  GraphQL, Next.js, MUI, React Hook Form e styled-components.`,
-  "Professor conteudista em Frontend",
-  "Digital House",
-  "Nov 2021 - Nov 2022 (1 ano)"
+  ".rotadash",
+  `Desenvolvedor Fullstack | Node.js | React Native
+  Rota Financeira · Meio período
+  jan de 2023 - o momento · 1 ano 5 meses
+  Rio de Janeiro, Brasil · Remota
+  A Rota Financeira é a solução definitiva para motoristas de aplicativo alcançarem o sucesso nos aplicativos de corrida. Nosso aplicativo de gestão simplifica a vida dos motoristas, proporcionando controle total do negócio. Equilibre receitas, despesas e metas de forma eficiente. Domine o volante do seu destino financeiro com nossa plataforma intuitiva e poderosa. Junte-se a nós!
+  `,
+  "Desenvolvedor Fullstack",
+  "Rota Financeira",
+  "jan de 2023 - o momento"
 );
 
 hoverChangeExperience(
-  ".zuplae",
-  `Trabalhei como Social Media e Designer na Zuplae que é um escola
-  de programação, onde teve como foco as criações de conteúdos sobre
-  programação para a comunidade dev através das redes sociais.`,
-  "Social Media e UI Designer",
-  "Zuplae",
-  "Jan 2022 - Abril 2022 (4 meses)"
+  ".glitchfactory",
+  `Gamer Developer
+  Glitch Factory · Estágio
+  dez de 2023 - mai de 2024 · 6 meses
+  Remota
+  Desenvolvimento de jogos com Unity/c#
+  `,
+  "Gamer Developer",
+  "Glitch Factory",
+  "dez de 2023 - mai de 2024"
 );
 
 hoverChangeExperience(
-  ".codigofontetv",
-  `Trabalhei como Social Media e Designer no Código Fonte TV, 
-  onde teve como foco as criações de conteúdos sobre programação 
-  para a comunidade dev através das redes sociais.`,
-  "Social Media e Designer",
-  "Código Fonte TV",
-  "Jun 2021 - Jan 2022 (8 meses)"
-);
-
-hoverChangeExperience(
-  ".contweb",
-  `Realizei o estágio na ContWeb, uma empresa de contabilidade. 
-  Onde pela primeira vez tive experiência com o React. Além do
-  desenvolvimento frontend criei os designs da nova plataforma da empresa.`,
-  "Developer frontend e UI Designer",
-  "ContWeb",
-  "Set 2021 - Nov 2021 (3 meses)"
+  ".rufustechnologies",
+  `Desenvolvedor Fullstack Jr. | Node.js | Vue.js
+  RUFUS Technologies · Tempo integral
+  mai de 2023 - set de 2023 · 5 meses
+  Rio de Janeiro, Brasil · Remota
+  Experiência em Vue.js e Vuetify, com ênfase em interfaces para sistemas de gerenciamento. Destaque em lógicas eficientes para adição de eventos em calendários. Expertise inclui análises, otimização de fluxos Vue.js e criação de interfaces para aprimorar a usabilidade.
+  `,
+  "Desenvolvedor Fullstack Jr.",
+  "RUFUS Technologies",
+  "mai de 2023 - set de 2023"
 );
 
 hoverChangeDescription(
@@ -98,3 +98,4 @@ hoverChangeDescription(
   ".storybook",
   "Storybook é uma ferramenta que tem como objetivo documentar e testar os componentes da aplicação."
 );
+})
