@@ -52,6 +52,14 @@
         }
       }
 
+      .rotafinanceira {
+        border: 1px solid #ff9800;
+
+        &:hover {
+          border: 1px solid #ff9800;
+        }
+      }
+
       > article {
         @include block-article;
         background-color: $bg-secondary;
@@ -108,6 +116,14 @@
 
       &::after {
         background: linear-gradient(270deg, #536fed 0%, #17161d 100%);
+      }
+    }
+
+    #rotafinanceira {
+      color: #ff9800;
+
+      &::after {
+        background: linear-gradient(270deg, #ff9800 0%, #17161d 100%);
       }
     }
 
