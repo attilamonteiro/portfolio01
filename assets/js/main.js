@@ -89,31 +89,43 @@ document.addEventListener("DOMContentLoaded", () => {
     "Storybook é uma ferramenta que tem como objetivo documentar e testar os componentes da aplicação."
   );
   hoverChangeDescription(
-    ".quasar",
-    "Quasar é um framework baseado em Vue.js que permite criar aplicações web, mobile e desktop com uma única base de código."
+    ".nodejs",
+    "Node.js é um ambiente de execução JavaScript server-side, que permite a construção de aplicações escaláveis e de alta performance."
   );
   hoverChangeDescription(
-    ".nest",
-    "Nest.js é um framework Node.js para a construção de aplicações server-side eficientes e escaláveis."
-  );
-  hoverChangeDescription(
-    ".azuredevops",
-    "Azure DevOps é um conjunto de ferramentas para colaboração no desenvolvimento de software, incluindo repositórios Git, pipelines de CI/CD, e gerenciamento de projetos."
-  );
-  hoverChangeDescription(
-    ".dotnet",
-    ".NET é uma plataforma de desenvolvimento de software livre e multiplataforma criada pela Microsoft, que permite a criação de diversos tipos de aplicações."
+    ".vuejs",
+    "Vue.js é um framework JavaScript progressivo para a construção de interfaces de usuário."
   );
   hoverChangeDescription(
     ".csharp",
     "C# é uma linguagem de programação moderna, orientada a objetos e fortemente tipada, desenvolvida pela Microsoft como parte da plataforma .NET."
   );
   hoverChangeDescription(
+    ".dotnet",
+    ".NET é uma plataforma de desenvolvimento de software livre e multiplataforma criada pela Microsoft, que permite a criação de diversos tipos de aplicações."
+  );
+  hoverChangeDescription(
+    ".gulp",
+    "Gulp é um toolkit de automação de tarefas de desenvolvimento front-end, que ajuda a automatizar processos repetitivos."
+  );
+  hoverChangeDescription(
     ".sql",
     "SQL é uma linguagem padrão para gerenciamento de bancos de dados relacionais, permitindo a criação, leitura, atualização e exclusão de dados."
   );
   hoverChangeDescription(
+    ".azuredevops",
+    "Azure DevOps é um conjunto de ferramentas para colaboração no desenvolvimento de software, incluindo repositórios Git, pipelines de CI/CD, e gerenciamento de projetos."
+  );
+  hoverChangeDescription(
     ".python",
     "Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua sintaxe clara e legibilidade."
+  );
+  hoverChangeDescription(
+    ".quasar",
+    "Quasar é um framework baseado em Vue.js que permite criar aplicações web, mobile e desktop com uma única base de código."
+  );
+  hoverChangeDescription(
+    ".nest",
+    "Nest.js é um framework Node.js para a construção de aplicações server-side eficientes e escaláveis."
   );
 });
