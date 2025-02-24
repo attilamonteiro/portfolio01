@@ -13,10 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   hoverChangeExperience(
     ".rotadash",
-    `Desenvolvedor Fullstack
-    Rota Financeira · Junior
-    jan de 2023 - o momento
-    O Rota Financeira é um aplicativo desenvolvido para a gestão e controle de manutenção de motoristas de Uber, focado na otimização de processos e redução de custos operacionais. Utilizando Vue.js com Quasar Framework no front-end, o aplicativo oferece interfaces dinâmicas e responsivas, enquanto o back-end, implementado em Nest.js com Node.js e TypeScript, garante uma API RESTful robusta e escalável. Com funcionalidades como cadastro de veículos, registro de despesas, controle de manutenções e geração de relatórios, o projeto centraliza informações essenciais para melhor gerenciamento financeiro e operacional.
+    `O Rota Financeira é um aplicativo desenvolvido para a gestão e controle de manutenção de motoristas de Uber, focado na otimização de processos e redução de custos operacionais. Utilizando Vue.js com Quasar Framework no front-end, o aplicativo oferece interfaces dinâmicas e responsivas, enquanto o back-end, implementado em Nest.js com Node.js e TypeScript, garante uma API RESTful robusta e escalável. Com funcionalidades como cadastro de veículos, registro de despesas, controle de manutenções e geração de relatórios, o projeto centraliza informações essenciais para melhor gerenciamento financeiro e operacional.
     `,
     "Desenvolvedor Fullstack",
     "Rota Financeira",
@@ -25,10 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   hoverChangeExperience(
     ".glitchfactory",
-    `Gamer Developer
-    Glitch Factory · Estágio
-    dez de 2023 - abr de 2024
-    Durante meu estágio contínuo na Glitch Factory desde dezembro de 2023, tenho adquirido valiosa experiência no desenvolvimento de jogos, utilizando Unity e C#. Contribuo ativamente para o processo de criação, implementação de recursos e trabalho colaborativo em um ambiente de equipe dinâmico. Essa oportunidade tem fortalecido minhas habilidades técnicas e proporcionado insights valiosos sobre a indústria de jogos.
+    `Durante meu estágio contínuo na Glitch Factory de dezembro de 2023 a abril de 2024, adquiri valiosa experiência no desenvolvimento de jogos, utilizando Unity e C#. Contribuí ativamente para o processo de criação, implementação de recursos e trabalho colaborativo em um ambiente de equipe dinâmico. Essa oportunidade fortaleceu minhas habilidades técnicas e proporcionou insights valiosos sobre a indústria de jogos.
     `,
     "Gamer Developer",
     "Glitch Factory",
@@ -37,10 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   hoverChangeExperience(
     ".rufustechnologies",
-    `Desenvolvedor Fullstack Jr.
-    Rufus Technologies · Tempo integral
-    mai de 2023 - set de 2023
-    Experiência em Vue.js e Vuetify, com ênfase em interfaces para sistemas de gerenciamento. Destaque em lógicas eficientes para adição de eventos em calendários. Expertise inclui análises, otimização de fluxos Vue.js e criação de interfaces para aprimorar a usabilidade.
+    `Experiência em Vue.js e Vuetify, com ênfase em interfaces para sistemas de gerenciamento. Destaque em lógicas eficientes para adição de eventos em calendários. Expertise inclui análises, otimização de fluxos Vue.js e criação de interfaces para aprimorar a usabilidade.
     `,
     "Desenvolvedor Fullstack Jr.",
     "Rufus Technologies",
@@ -49,10 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   hoverChangeExperience(
     ".leste",
-    `Desenvolvedor Fullstack
-    Leste · Estágio
-    jun de 2024 - o momento
-    Atuando no desenvolvimento de sistemas utilizando Vue.js, Quasar Framework e TypeScript, focando na criação de interfaces dinâmicas e responsivas para aplicações de investimento. Participo na implementação de APIs em C# com arquitetura .NET (Domain, Infrastructure, API), garantindo uma comunicação eficiente entre frontend e backend. Utilizo Entity Framework e LINQ para manipulação de dados e realizar consultas otimizadas. Além disso, sou responsável pela integração de APIs RESTful e pela otimização de componentes, melhorando o desempenho das interfaces e a experiência do usuário.
+    `Atuando no desenvolvimento de sistemas utilizando Vue.js, Quasar Framework e TypeScript, focando na criação de interfaces dinâmicas e responsivas para aplicações de investimento. Participo na implementação de APIs em C# com arquitetura .NET (Domain, Infrastructure, API), garantindo uma comunicação eficiente entre frontend e backend. Utilizo Entity Framework e LINQ para manipulação de dados e realizar consultas otimizadas. Além disso, sou responsável pela integração de APIs RESTful e pela otimização de componentes, melhorando o desempenho das interfaces e a experiência do usuário.
     `,
     "Desenvolvedor Fullstack",
     "Leste",
@@ -61,10 +49,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   hoverChangeExperience(
     ".fab",
-    `Sargento eletromecânico
-    Força Aérea Brasileira · Órgão Público
-    dez de 2012 - dez de 2019
-    Atuei proativamente nos processos gerenciais, logísticos em alienação e transferência de veículos, contribui para a gestão de recursos na aquisição de novos veículos. Desenvolvi e executei procedimentos logísticos de vistoria, aprimorando a qualidade e garantindo conformidade. Colaborei na elaboração de relatórios gerenciais, destacando habilidades organizacionais e de comunicação na otimização dos processos e no atendimento satisfatório ao público.
+    `Atuei proativamente nos processos gerenciais, logísticos em alienação e transferência de veículos, contribui para a gestão de recursos na aquisição de novos veículos. Desenvolvi e executei procedimentos logísticos de vistoria, aprimorando a qualidade e garantindo conformidade. Colaborei na elaboração de relatórios gerenciais, destacando habilidades organizacionais e de comunicação na otimização dos processos e no atendimento satisfatório ao público.
     `,
     "Sargento eletromecânico",
     "Força Aérea Brasileira",
